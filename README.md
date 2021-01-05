@@ -1,1 +1,1 @@
-# shoppingcart
+# rust-samples 
